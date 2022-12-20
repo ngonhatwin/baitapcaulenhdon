@@ -3,4 +3,4 @@
 
 - [ Bai 1 ]: https://www.jdoodle.com/iembed/v0/BqT
 - [ bai 2 ]: https://www.jdoodle.com/iembed/v0/BqV
-- [ bai 3 ]: 
+- [ bai 3 ]: https://www.jdoodle.com/iembed/v0/BqW
